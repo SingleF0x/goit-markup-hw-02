@@ -30,8 +30,6 @@ ul, ol {
 
 .logo {
                 font-family: "Raleway", sans-serif;
-                font-weight: 700;
-                font-size: 18px;
                 line-height: 1.17;
                 text-transform: uppercase;
                 color: #4d5ae5;
@@ -112,8 +110,8 @@ ul, ol {
 
 .adress-item {
         font-size: 16px;
-        line-height: 24px;
-        line-height: 150%;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
 }
 
 .title-main {
@@ -204,5 +202,5 @@ header {
 }
 
 .page-footer {
-        background: #2e2f42;
+        background-color: #2e2f42;
 }
